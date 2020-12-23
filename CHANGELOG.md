@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.0.0-alpha1 (2020-12-23)
+
 ## [1.0.0](https://code.mlamp.cn///compare/v1.0.0-alpha.1...v1.0.0) (2020-05-26)
 
 ## 1.0.0-alpha.1 (2020-05-26)

@@ -1,7 +1,7 @@
 {
-  "name": "@mlamp/hello-word",
-  "version": "1.0.0-alpha1",
-  "description": "hello world test",
+  "name": "@mlamp/title-with-editors",
+  "version": "1.0.0",
+  "description": "title编辑器",
   "main": "build/index.js",
   "scripts": {
     "eslint": "eslint --ext .tsx,.ts --fix ./src",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://code.mlamp.cn/frontend/model/rc-component-scaffold.git"
+    "url": "https://github.com/arieltlm/test-component.git"
   },
   "bugs": {
-    "url": "https://code.mlamp.cn/frontend/model/rc-component-scaffold/issues"
+    "url": "https://github.com/arieltlm/test-component/issues"
   },
   "homepage": "http://fe.mlamp.cn:3362",
   "author": "前端魔法部",
